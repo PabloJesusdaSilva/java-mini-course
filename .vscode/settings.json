@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.fontFamily": "JetBrainsMono Nerd Font, Consolas, 'Courier New', monospace",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
